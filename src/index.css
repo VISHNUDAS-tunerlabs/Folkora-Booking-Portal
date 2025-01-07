@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Tan Meringue';
+  src: url('./assets/fonts/TAN\ MERINGUE.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Safira March';
+  src: url('./assets/fonts/SafiraMarch.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}

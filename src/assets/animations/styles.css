@@ -1,0 +1,17 @@
+@keyframes climb-up {
+    0% {
+      transform: translateY(40px); /* Start below its container */
+      opacity: 0; /* Start invisible */
+    }
+    100% {
+      transform: translateY(0); /* End at normal position */
+      opacity: 1; /* Fully visible */
+    }
+  }
+  
+  .animate-climb-up {
+    animation: climb-up 2s ease-out; /* Apply animation */
+  }
+  
+  
+  
