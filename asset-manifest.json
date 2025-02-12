@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/VISHNUDAS-tunerlabs/Folkora-Booking-Portal/static/css/main.60edf29f.css",
-    "main.js": "/VISHNUDAS-tunerlabs/Folkora-Booking-Portal/static/js/main.4e6203e2.js",
-    "static/js/488.d14c06b8.chunk.js": "/VISHNUDAS-tunerlabs/Folkora-Booking-Portal/static/js/488.d14c06b8.chunk.js",
-    "static/media/framevideo.mp4": "/VISHNUDAS-tunerlabs/Folkora-Booking-Portal/static/media/framevideo.36bd339cd7ecddf6b4a8.mp4",
-    "static/media/SafiraMarch.otf": "/VISHNUDAS-tunerlabs/Folkora-Booking-Portal/static/media/SafiraMarch.0255a3107451e9e0e3d7.otf",
-    "static/media/TAN MERINGUE.ttf": "/VISHNUDAS-tunerlabs/Folkora-Booking-Portal/static/media/TAN MERINGUE.afd7e84806f5c0315bc8.ttf",
-    "index.html": "/VISHNUDAS-tunerlabs/Folkora-Booking-Portal/index.html",
-    "main.60edf29f.css.map": "/VISHNUDAS-tunerlabs/Folkora-Booking-Portal/static/css/main.60edf29f.css.map",
-    "main.4e6203e2.js.map": "/VISHNUDAS-tunerlabs/Folkora-Booking-Portal/static/js/main.4e6203e2.js.map",
-    "488.d14c06b8.chunk.js.map": "/VISHNUDAS-tunerlabs/Folkora-Booking-Portal/static/js/488.d14c06b8.chunk.js.map"
+    "main.css": "/Folkora-Booking-Portal/static/css/main.150a8ed9.css",
+    "main.js": "/Folkora-Booking-Portal/static/js/main.4da586fe.js",
+    "static/js/488.d14c06b8.chunk.js": "/Folkora-Booking-Portal/static/js/488.d14c06b8.chunk.js",
+    "static/media/framevideo.mp4": "/Folkora-Booking-Portal/static/media/framevideo.36bd339cd7ecddf6b4a8.mp4",
+    "static/media/SafiraMarch.otf": "/Folkora-Booking-Portal/static/media/SafiraMarch.0255a3107451e9e0e3d7.otf",
+    "static/media/TAN MERINGUE.ttf": "/Folkora-Booking-Portal/static/media/TAN MERINGUE.afd7e84806f5c0315bc8.ttf",
+    "index.html": "/Folkora-Booking-Portal/index.html",
+    "main.150a8ed9.css.map": "/Folkora-Booking-Portal/static/css/main.150a8ed9.css.map",
+    "main.4da586fe.js.map": "/Folkora-Booking-Portal/static/js/main.4da586fe.js.map",
+    "488.d14c06b8.chunk.js.map": "/Folkora-Booking-Portal/static/js/488.d14c06b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60edf29f.css",
-    "static/js/main.4e6203e2.js"
+    "static/css/main.150a8ed9.css",
+    "static/js/main.4da586fe.js"
   ]
 }
