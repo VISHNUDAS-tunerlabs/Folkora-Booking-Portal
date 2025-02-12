@@ -1,7 +1,7 @@
 {
   "name": "folkora-front-end",
   "version": "0.1.0",
-  "homepage": "https://github.com/VISHNUDAS-tunerlabs/Folkora-Booking-Portal",
+  "homepage": "https://VISHNUDAS-tunerlabs.github.io/Folkora-Booking-Portal",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
